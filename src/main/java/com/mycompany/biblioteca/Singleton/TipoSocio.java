@@ -10,5 +10,5 @@ package com.mycompany.biblioteca.Singleton;
  */
 public enum TipoSocio {
     FRECUENTE,
-    NO_FRECUENTE
+    VIP
 }
